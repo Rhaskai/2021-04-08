@@ -1,0 +1,42 @@
+ol > span{
+    margin-left: -0.25%;
+}
+ol{
+    position: relative;
+    text-align: center;
+    padding: 10%;
+}
+.hq{
+    color: blue;
+    font-size: 7rem;
+}
+.hw{
+    color: red;
+    font-size: 6rem;
+}
+.he{
+    color: orange;
+    font-size: 6rem;
+}
+.hr{
+    color: blue;
+    font-size: 6rem;
+}
+.ht{
+    color: green;
+    font-size: 6rem;
+}
+.hy{
+    color: red;
+    font-size: 6rem;
+}
+.box{
+    position: absolute;
+    border-radius: 50px;
+    border: 1px solid gray;
+    top: 40%;
+    left: 50%;
+    margin-left:-375px;
+    width: 750px;
+    height: 50px;
+}
